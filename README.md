@@ -1,2 +1,2 @@
 # Bodji
-A website for Bodji project
+A website for Bodji project.
